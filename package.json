@@ -16,7 +16,8 @@
   "license": "MIT",
   "main": "./lib/index.js",
   "dependencies": {
-    "debounce": "^1.2.0"
+    "debounce": "^1.2.0",
+    "earlgrey-runtime": "^0.1.2"
   },
   "devDependencies": {}
 }
