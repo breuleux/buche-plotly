@@ -32,7 +32,7 @@ The component is instantiated in HTML as follows:
                 "y": [1, 4, 9, 16]
             },
             "plot2": {
-                "dataSource": "data",
+                "dataSource": "/some-data",
                 "x": {"field": "distance"},
                 "y": {"field": "size"}
             }
